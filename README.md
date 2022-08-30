@@ -13,4 +13,4 @@ Exemplos:
 
 O vídeo-tutorial pode ser acessado no Youtube: https://youtu.be/g8qqzwUIEus
 
-<img scr="img.png">
+<img src="img.png">
